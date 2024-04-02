@@ -14,3 +14,6 @@ struct mahasiswa {
 	int umur;
 };
 
+int main() {
+	mahasiswa mhs[3];
+	
